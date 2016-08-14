@@ -1,0 +1,13 @@
+name: PlanetFxChatSystem
+version: 2.0.2
+author: Sebastian Mikolai
+
+main: de.SebastianMikolai.PlanetFx.ChatSystem.ChatSystem
+
+commands:
+  chat:
+    description: PlanetFxChat Commands
+    usage: /chat
+  a:
+    description: PlanetFxChat Commands
+    usage: /a
